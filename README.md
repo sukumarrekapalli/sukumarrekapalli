@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sukumarrekapalli
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on javascript based projects
+- 👀 I’m interested in web development / DevOps / Cloud 
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on javascript, Php based projects
 - 📫 How to reach me sukumar.sachin09@gmail.com
 
 <!---
